@@ -1,0 +1,5 @@
+export const COLOR_BACKGROUND = '#2A353B'
+export const COLOR_FACEBOOK = '#3b5998'
+export const COLOR_GOOGLE = '#DC4D41'
+export const COLOR_BLUE_MEDIUM = '#2FB3AF'
+export const COLOR_TEXT_INPUT = '#DDDDDD'
